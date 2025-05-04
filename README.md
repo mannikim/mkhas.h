@@ -19,7 +19,7 @@ copy and paste [mkhas.h](./mkhas.h) into your project
 
 in a single c source file, include the header like this:
 
-```
+```c
 #define mkhas_IMPL
 #include "mkhas.h"
 ```
