@@ -1,0 +1,10 @@
+*
+!\.gitignore
+!example.c
+!LICENSE
+!Makefile
+!mkhas.h
+!README.md
+!test.sh
+!test
+!test/*
